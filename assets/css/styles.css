@@ -386,7 +386,6 @@ img {
 
 .button:hover {
     background-color: var(--first-color-alt);
-    cursor: pointer;
 }
 
 .button__icon {
@@ -957,6 +956,10 @@ img {
     border: none;
     outline: none;
     padding: .25rem .5rem .5rem 0;
+}
+
+.contact__button {
+    cursor: pointer;
 }
 
 
