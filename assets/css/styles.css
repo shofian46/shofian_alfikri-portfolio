@@ -386,6 +386,7 @@ img {
 
 .button:hover {
     background-color: var(--first-color-alt);
+    cursor: pointer;
 }
 
 .button__icon {
